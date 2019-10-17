@@ -13,4 +13,5 @@ What I'll try to do in the future:\
 --> Random movement of the enemies in the game.
 \
 \
-Guess that's it. Guess it won't be more.
+Guess that's it. Guess it won't be more.\
+(This is by the way the longest README I've ever written!) :-)
